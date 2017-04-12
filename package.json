@@ -1,6 +1,6 @@
 {
   "name": "webpack-uglify-harmony-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A replacement for Webpack's UglifyJSPlugin to use UglifyJS Harmony",
   "main": "index.js",
   "scripts": {
