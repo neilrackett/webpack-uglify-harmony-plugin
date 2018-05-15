@@ -17,7 +17,7 @@
     "uglify",
     "plugin"
   ],
-  "author": "Gregory Waxman",
+  "author": "Neil Rackett",
   "license": "BSD-3-Clause",
   "bugs": {
     "url": "https://github.com/neilrackett/webpack-uglify-harmony-plugin/issues"
